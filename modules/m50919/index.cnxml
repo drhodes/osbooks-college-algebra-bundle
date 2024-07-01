@@ -1,222 +1,227 @@
 <?xml version="1.0"?>
 <document xmlns="http://cnx.rice.edu/cnxml" class="preface">
-  <title>Preface</title>
+  <title>Prefas</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:content-id>m50919</md:content-id>
-    <md:title>Preface</md:title>
-    <md:abstract>Precalculus is intended for college-level Precalculus students. Since Precalculus courses vary from one institution to the next, we have attempted to meet the needs of as broad an audience as possible, including all of the content that might be covered in any particular course. The result is a comprehensive book that covers more ground than an instructor could likely cover in a typical one- or two-semester course; but instructors should find, almost without fail, that the topics they wish to include in their syllabus are covered in the text.   Many chapters of Openstax Precalculus are suitable for other freshman and sophomore math courses such as College Algebra and Trigonometry; however, instructors of those courses might need to supplement or adjust the material. Openstax will also be releasing a College Algebra and Trigonometry title tailored to the particular scope, sequence, and pedagogy of those courses.</md:abstract>
+    <md:title>Prefas</md:title>
+    <md:abstract>Prekalkilis f&#xE8;t pou etidyan nivo kol&#xE8;j ki ap etidye Prekalkilis. Depi kour Prekalkilis yo varye de yon enstitisyon a yon l&#xF2;t, nou te f&#xE8; ef&#xF2; pou nou satisf&#xE8; bezwen yon odyans ki laj, ki gen tout kontni ki ta ka kouvri nan nenp&#xF2;t kour patikilye. Rezilta a se yon liv ki konpl&#xE8; e ki kouvri plis maty&#xE8; pase yon pwofes&#xE8; ta ka kouvri nan yon kour tipik youn oswa de sem&#xE8;s; men, pwofes&#xE8; yo ta dwe jwenn, pr&#xE8;ske san ech&#xE8;k, ke maty&#xE8; yo vle enkli nan syllab yo kouvri nan t&#xE8;ks la. Anpil chapit nan Openstax Prekalkilis f&#xE8; sans pou l&#xF2;t kour matematik premye ak dezy&#xE8;m ane tankou Algeb Kol&#xE8;j ak Trigonometri; sepandan, pwofes&#xE8; kour sa yo ta ka bezwen ajoute oswa ajiste matery&#xE8;l la. Openstax pral tou pibliye yon tit Algeb Kol&#xE8;j ak Trigonometri ki f&#xE8;t espesyalman pou ab&#xF2;de sij&#xE8; yo, sekans yo, ak pedagogi kour sa yo.</md:abstract>
     <md:uuid>b3f4423d-9598-4fec-8822-df3767e33a9a</md:uuid>
   </metadata>
   <content class="preface">
     <section id="fs-id1164949285210">
       <section id="eip-29">
-        <title>About OpenStax</title>
-        <para id="eip-780">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it's our mission to transform learning so that education works for every student. Through our partnerships with philanthropic organizations and our alliance with other educational resource companies, we're breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para>
+        <title>Kons&#xE8;nan OpenStax</title>
+        <para id="eip-780">OpenStax se yon pati nan Iniv&#xE8;site Rice, ki se yon k&#xF2;porasyon charitab nonprofit 501(c)(3). K&#xF2;m yon inisyativ edikatif, misyon nou se transf&#xF2;me aprantisaj pou edikasyon travay pou chak etidyan. Atrav&#xE8; patenarya nou ak &#xF2;ganizasyon filantwopik ak alye nou ak l&#xF2;t konpayi resous edikatif, nou ap kraze bary&#xE8; ki pi komen nan aprantisaj. Paske nou kw&#xE8; ke tout moun ta dwe ak ka gen aks&#xE8; a konesans.</para>
       </section>
       <section id="eip-714">
-        <title>About OpenStax Resources</title>
+        <title>Kons&#xE8;nan Resous OpenStax</title>
         <section id="fs-id6329471">
-          <title>Customization</title>
-          <para id="eip-494"><emphasis effect="italics"> Precalculus 2e</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.</para>
-          <para id="eip-461">Because our books are openly licensed, you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para>
-          <para id="eip-219">Instructors also have the option of creating a customized version of their OpenStax book. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit your book page on openstax.org for more information.</para>
+          <title>P&#xE8;sonalizasyon</title>
+          <para id="eip-494"><emphasis effect="italics">Prekalkilis 2e</emphasis> gen yon lisans Creative Commons Attribution 4.0 International (CC BY), ki vle di ou ka distribiye, remix, ak baze sou kontni an, depi ou bay atribisyon a OpenStax ak kontribit&#xE8; kontni li yo.</para>
+          <para id="eip-461">Paske liv nou yo gen lisans ouv&#xE8;, ou lib pou itilize tout liv la oswa chwazi seksyon ki pi enp&#xF2;tan pou bezwen kou ou. Ou lib pou remix kontni an pa asiyen bay el&#xE8;v ou yo s&#xE8;ten chapit ak seksyon nan syllab ou, nan l&#xF2;d ou prefere. Ou menm ka bay yon lyen dir&#xE8;k nan syllab ou a seksyon nan gade ent&#xE8;n&#xE8;t la nan liv ou.</para>
+          <para id="eip-219">Pwofes&#xE8; yo gen opsyon pou kreye yon v&#xE8;syon p&#xE8;sonalize nan liv OpenStax yo. V&#xE8;syon p&#xE8;sonalize a ka disponib pou el&#xE8;v yo an f&#xF2;m ekri oswa dijital ki pa ch&#xE8; atrav&#xE8; libreri kanpis yo. Vizite paj liv ou sou openstax.org pou plis enf&#xF2;masyon.</para>
         </section>
         <section id="sect-00001">
-          <title>Art attribution</title>
-          <para id="para-00001">In <emphasis effect="italics">Precalculus 2e</emphasis>, most photos and third-party illustrations contain attribution to their creator, rights holder, host platform, and/or license within the caption. Because the art is openly licensed, anyone may reuse the art as long as they provide the same attribution to its original source. To maximize readability and content flow, mathematical expressions that are rendered as art do not include attribution in the text. This art can be assumed to be developed by OpenStax and can be reused under the CC-BY license with attribution.</para>
+          <title>Attribisyon Atizay</title>
+          <para id="para-00001">Nan <emphasis effect="italics">Prekalkilis 2e</emphasis>, pif&#xF2; foto ak ilistrasyon twazy&#xE8;m pati gen atribisyon bay kreyat&#xE8; yo, detant&#xE8; dwa yo, platf&#xF2;m &#xF2;t yo, ak/oswa lisans la nan caption. Paske atizay la gen lisans ouv&#xE8;, nenp&#xF2;t moun ka reutilize atizay la depi yo bay menm atribisyon a sous orijinal la. Pou maksimize lisibilite ak kouran kontni an, ekspresyon matematik ki rann k&#xF2;m atizay pa gen atribisyon nan t&#xE8;ks la. Sa a atizay ka sipoze devlope pa OpenStax e ka reutilize selon lisans CC-BY ak atribisyon.</para>
         </section>
         <section id="eip-318">
           <title>Errata</title>
           <para id="eip-617">
-				All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on openstax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on openstax.org.</para>
+                Tout liv OpenStax pase nan yon pwosesis revizyon rigourez. Men, tankou nenp&#xF2;t liv pwofesyon&#xE8;l, er&#xE8; pafwa rive. Depi liv nou yo baze sou ent&#xE8;n&#xE8;t, nou ka f&#xE8; mizajou p&#xE9;riyodikman l&#xE8; nou jije ke sa neses&#xE8; pou pedagogi. Si ou gen yon koreksyon pou sijere, soum&#xE8;t li atrav&#xE8; lyen an sou paj liv ou sou openstax.org. Eksp&#xE8; maty&#xE8; sij&#xE8; revize tout sijesyon errata. OpenStax angaje nan transparans sou tout mizajou, kidonk w ap jwenn tou yon lis chanjman errata pase sou paj liv ou sou openstax.org.</para>
         </section>
         <section id="eip-788">
-          <title>Format</title>
+          <title>F&#xF2;ma</title>
           <para id="eip-542">
-				You can access this textbook for free in web view or PDF through openstax.org, and for a low cost in print.</para>
+                Ou ka jwenn aks&#xE8; a liv sa a gratis nan v&#xE8;syon ent&#xE8;n&#xE8;t oswa PDF atrav&#xE8; openstax.org, ak pou yon pri ki ba nan f&#xF2;m ekri.</para>
         </section>
       </section>
       <section id="eip-626">
-        <title>About <emphasis effect="italics">Precalculus 2e</emphasis></title>
-        <para id="eip-428"><emphasis effect="italics">Precalculus 2e</emphasis> is adaptable and designed to fit the needs of a variety of precalculus courses. It is a comprehensive text that covers more ground than a typical one- or two-semester college-level precalculus course. The content is organized by clearly-defined learning objectives, and includes worked examples that demonstrate problem-solving approaches in an accessible way.
-				</para>
+        <title>Kons&#xE8;nan <emphasis effect="italics">Prekalkilis 2e</emphasis></title>
+        <para id="eip-428"><emphasis effect="italics">Prekalkilis 2e</emphasis> kapab adapte ak f&#xE8;t pou satisf&#xE8; bezwen yon kantite kour prekalikil. Li se yon liv ki konpl&#xE8; e ki kouvri plis maty&#xE8; pase yon kour prekalikil tipik youn oswa de sem&#xE8;s nan nivo kol&#xE8;j. Kontni an &#xF2;ganize pa objektif aprantisaj ki byen defini, e gen egzanp travay ki montre apw&#xF2;ch rezolisyon pwobl&#xE8;m nan yon fason aksesib.
+                </para>
         <section id="eip-250">
-          <title>Coverage and Scope</title>
-          <para id="eip-id1164242457359"><emphasis effect="italics">Precalculus 2e</emphasis> contains twelve chapters, roughly divided into three groups. </para>
-          <para id="eip-id1164239746735">Chapters 1-4 discuss various types of functions, providing a foundation for the remainder of the course.
-						<list id="eip-id1168983371474"><item>Chapter 1: Functions</item><item>Chapter 2: Linear Functions</item><item>Chapter 3: Polynomial and Rational Functions</item><item>Chapter 4: Exponential and Logarithmic Functions</item></list></para>
-          <para id="eip-id1164253943954">Chapters 5-8 focus on Trigonometry. In <emphasis effect="italics">Precalculus 2e</emphasis>, we approach trigonometry by first introducing angles and the unit circle, as opposed to the right triangle approach more commonly used in college algebra and trigonometry courses.
-								<list id="eip-id7864342"><item>Chapter 5: Trigonometric Functions</item><item>Chapter 6: Periodic Functions</item><item>Chapter 7: Trigonometric Identities and Equations</item><item>Chapter 8: Further Applications of Trigonometry</item></list></para>
-          <para id="eip-id1164239005230">Chapters 9-12 present some advanced precalculus topics that build on topics introduced in chapters 1-8. Most precalculus syllabi include some of the topics in these chapters, but few include all. Instructors can select material as needed from this group of chapters, since they are not cumulative. <list id="eip-id1166690773820"><item>Chapter 9: Systems of Equations and Inequalities</item><item>Chapter 10: Analytic Geometry</item><item>Chapter 11: Sequences, Probability and Counting Theory</item><item>Chapter 12: Introduction to Calculus</item></list>
-										All chapters are broken down into multiple sections, the titles of which can be viewed in the Table of Contents.</para>
+          <title>Kouv&#xE8;ti ak Sikopat</title>
+          <para id="eip-id1164242457359"><emphasis effect="italics">Prekalkilis 2e</emphasis> gen douz chapit, apepr&#xE8; divize an twa gwoup. </para>
+          <para id="eip-id1164239746735">Chapit 1-4 diskite div&#xE8;s tip fonksyon, bay yon baz pou r&#xE8;s kour la.
+                        <list id="eip-id1168983371474"><item>Chapit 1: Fonksyon</item><item>Chapit 2: Fonksyon Liney&#xE8;</item><item>Chapit 3: Fonksyon Polinomial ak Rasyon&#xE8;l</item><item>Chapit 4: Fonksyon Eksponansy&#xE8;l ak Logaritmik</item></list></para>
+          <para id="eip-id1164253943954">Chapit 5-8 konsantre sou Trigonometri. Nan <emphasis effect="italics">Prekalikil 2e</emphasis>, nou apwoche trigonometri pa entwodwi ang ak s&#xE8;k inite a, olye apw&#xF2;ch triyang dwat la ki pi souvan itilize nan kour algebra kol&#xE8;j ak trigonometri.
+                                <list id="eip-id7864342"><item>Chapit 5: Fonksyon Trigonometric</item><item>Chapit 6: Fonksyon Peryodik</item><item>Chapit 7: Idantite ak Ekz&#xE8;sis Trigonometric</item><item>Chapit 8: Aplikasyon L&#xF2;t Trigonometri</item></list></para>
+          <para id="eip-id1164239005230">Chapit 9-12 prezante k&#xE8;k maty&#xE8; avanse prekalikil ki bati sou sij&#xE8; prezante nan chapit 1-8. Pif&#xF2; syllab prekalikil gen k&#xE8;k nan maty&#xE8; nan chapit sa yo, men k&#xE8;k enkli tout. Pwofes&#xE8; yo ka chwazi matery&#xE8;l jan sa neses&#xE8; nan gwoup chapit sa a, depi yo pa raze.
+                                        <list id="eip-id1166690773820"><item>Chapit 9: Sist&#xE8;m Ekz&#xE8;sis ak Desczyon</item><item>Chapit 10: Jometri Analitik</item><item>Chapit 11: Swit, Probabilite ak Teori Konte</item><item>Chapit 12: Entwodiksyon a Kalkil</item></list>
+                                        Tout chapit yo separe nan plizy&#xE8; seksyon, tit yo ka w&#xE8; nan Tablo Kontni an.</para>
         </section>
         <section id="eip-350">
-          <title>Development Overview</title>
-          <para id="eip-377"><emphasis effect="italics">Precalculus 2e</emphasis> is the product of a collaborative effort by a group of dedicated authors, editors, and instructors whose collective passion for this project has resulted in a text that is remarkably unified in purpose and voice. Special thanks is due to our Lead Author, Jay Abramson of Arizona State University, who provided the overall vision for the book and oversaw the development of each and every chapter, drawing up the initial blueprint, reading numerous drafts, and assimilating field reviews into actionable revision plans for our authors and editors. </para>
-          <para id="eip-id1170058262242">The first eight chapters are built on the foundation of <emphasis effect="italics">Precalculus: An Investigation of Functions</emphasis> by David Lippman and Melonie Rasmussen. Chapters 9-12 were written and developed by our expert and highly experienced <link target-id="fs-id1166812582991">author team</link>. All twelve chapters follow a new and innovative instructional design, and great care has been taken to maintain a consistent voice from cover to cover. New features have been introduced to flesh out the instruction, all of the graphics have been redone in a more contemporary style, and much of the content has been revised, replaced, or supplemented to bring the text more in line with mainstream approaches to teaching precalculus.
-										</para>
+          <title>Ap&#xE8;si des of Developments</title>
+          <para id="eip-377"><emphasis effect="italics">Prekalikil 2e</emphasis> se rezilta yon ef&#xF2; kolaboratif nan yon gwoup ot&#xE8;, edit&#xE8;, ak pwofes&#xE8; ki gen yon pasyon kolektif pou pwoj&#xE8; sa a ki te lak&#xF2;z yon t&#xE8;ks ki remakab inifye nan objektif ak vwa. Specials di m&#xE8;si a Lead Author nou an, Jay Abramson nan Arizona State University, ki te bay vizyon an jeneral pou liv la epi ki te sip&#xE8;vize devlopman chak chapit, trase plan an inisyal, li chak chapter div&#xE8;s fwa konsolide revi nan jaden an nan plan revizyon sa a pou ot&#xE8; ak edit&#xE8; nou yo.
+                                        </para>
+          <para id="eip-id1170058262242">Premye uit chapit yo bati sou fondasyon an nan <emphasis effect="italics">Prekalikil: Yon Envestigasyon Fonksyon</emphasis> pa David Lippman ak Melonie Rasmussen. Chapit 9-12 te ekri ak devlope pa ekip ot&#xE8; sa a ki se eksp&#xE8; ak anpil eksperyans <link target-id="fs-id1166812582991">ekip ot&#xE8;</link>. Tout douz chapit yo swiv yon nouvo ak inovat&#xE8; konsepsyon enstriksyon, e se ak anpil swen nou te pran pou kenbe yon vwa ki konsistan de kouv&#xE8;ti a kouv&#xE8;ti. Nou te entwodui karakteristik nouvo pou elabore ans&#xE8;yman an, tout grafik yo te rejwe nan yon style ki pi kontanpor&#xE8;n, epi anpil kontni te revize, ranplase, oswa ajoute pou pote t&#xE8;ks la pi pito nan apw&#xF2;ch mway&#xE8;n nan ans&#xE8;yman prekalikil.
+                                        </para>
         </section>
         <section id="eip-42">
-          <title>Accuracy of the Content</title>
-          <para id="eip-951">We understand that precision and accuracy are imperatives in mathematics, and undertook an dedicated accuracy program led by experienced faculty. Examples, art, problems, and solutions were reviewed by dedicated faculty, with a separate team evaluating the answer key and solutions. </para>
-          <para id="para-00002">The text also benefits from years of usage by thousands of faculty and students. A core aspect of the second edition revision process included consolidating and ensuring consistency with regard to any errata and corrections that have been implemented during the series' extensive usage and incorporation into homework systems.</para>
+          <title>Precision nan Kontni an</title>
+          <para id="eip-951">Nou konprann ke presizyon ak egzatitid se obligatwa nan matematik, e nou te antreprann yon pwogram presizyon dedye led pa fakilte ki gen eksperyans. Egzanmp, atizay, pwobl&#xE8;m, ak solisyon yo te revize pa fakilte dedye, ak yon ekip separe evaluasyon kle repons ak solisyon.
+                                        </para>
+          <para id="para-00002">T&#xE8;ks la benefisye tou de plizy&#xE8; ane itilizasyon pa d&#xE8; milye de fakilte ak etidyan. Yon asp&#xE8; enp&#xF2;tan nan pwosesis revizyon edisyon dezy&#xE8;m edisyon sa a se te konsolidasyon ak asire konsistans ak nenp&#xF2;t errata ak koreksyon ki te aplike pandan itilizasyon serye sa a ak enklizyon nan sist&#xE8;m devwa.</para>
         </section>
         <section id="sect-00002">
-          <title>Changes to the Second Edition</title>
+          <title>Chanjman nan Dezy&#xE8;m Edisyon an</title>
           <para id="para-00003">
-													The <emphasis effect="italics">Precalculus 2e</emphasis> revision focused on mathematical clarity and accuracy as well as inclusivity. Examples, Exercises, and Solutions were reviewed by multiple faculty experts. All improvement suggestions and errata updates, driven by faculty and students from several thousand colleges, were considered and unified across the different formats of the text.</para>
+                                                Revizyon nan <emphasis effect="italics">Prekalikil 2e</emphasis> konsantre sou klarite ak presizyon matematik k&#xF2;m byen ke enklizyon. Egzanp, Egz&#xE8;sis, ak Solisyon yo te revize pa plizy&#xE8; eksp&#xE8; fakilte. Tout sijesyon amelyorasyon ak mizajou errata, dirije pa fakilte ak etidyan nan plizy&#xE8; mil kol&#xE8;j, yo te konsidere ak inifye atrav&#xE8; diferan f&#xF2;ma t&#xE8;ks la.
+                                            </para>
           <para id="para-00004">
-													OpenStax and our authors are aware of the difficulties posed by shifting problem and exercise numbers when textbooks are revised. In an effort to make the transition to the 2nd edition as seamless as possible, we have minimized any shifting of exercise numbers.</para>
-          <para id="para-00005">The revision also focused on supporting inclusive and welcoming learning experiences. The introductory narratives, example and problem contexts, and even many of the names used for fictional people in the text were all reviewed using a diversity, equity, and inclusion framework. Several hundred resulting revisions improve the balance and relevance to the students using the text, while maintaining a variety of applications to diverse careers and academic fields. In particular, explanations of scientific and historical aspects of mathematics have been expanded to include more contributors. For example, the authors added additional historical and multicultural context regarding what is widely known as Pascal&#x2019;s Triangle, and similarly added details regarding the international process of decoding the Enigma machine (including the role of Polish college students). Several chapter-opening narratives and in-chapter references are completely new, and contexts across all chapters were specifically reviewed for equity in gender representation and connotation.</para>
+                                                OpenStax ak ot&#xE8; nou yo konsyan de difikilte yo poze pa chanjman nan nimewo pwobl&#xE8;m ak egz&#xE8;sis l&#xE8; liv lek&#xF2;l yo revize. Nan yon ef&#xF2; pou f&#xE8; tranzisyon nan 2y&#xE8;m edisyon an k&#xF2;m kontinu&#xE8;l ke posib, nou te minimize nenp&#xF2;t chanjman nan nimewo egz&#xE8;sis.
+                                            </para>
+          <para id="para-00005">
+                                                Revizyon an te konsantre tou sou sip&#xF2;te eksperyans aprantisaj enklizif ak akeyan. Naratif entwodiksyon yo, egz&#xE8;sis kont&#xE8;ks ak egz&#xE8;sis, e menm anpil nan non itilize pou moun fiks nan t&#xE8;ks la yo tout te revize l&#xE8; l s&#xE8;vi av&#xE8;k yon chapit div&#xE8;site, ekite, ak enklizyon. Plizy&#xE8; sant&#xE8;n revizyon ki rive amelyore balans lan ak enp&#xF2;tans p&#xE8;di etidyan yo itilize t&#xE8;ks la, pandan y ap kenbe yon varyete aplikasyon pou nan div&#xE8;s kary&#xE8; ak dom&#xE8;n akademik. An patikilye, eksplikasyon nan asp&#xE8; syantifik ak istorik nan matematik yo te elaji pou enkli plis kontribit&#xE8;. Pou egzanp, ot&#xE8; yo te ajoute plis kont&#xE8;ks istorik ak kiltir&#xE8;l kons&#xE8;nan sa ki lajman li te ye tankou Triyang nan Paskal, ak menm jan an ajoute detay kons&#xE8;nan pwosesis ent&#xE8;nasyonal la nan kode machin nan Enigma (ki gen ladan w&#xF2;l etidyan kol&#xE8;j Polon&#xE8;). Plizy&#xE8; naratif ouv&#xE8;ti chapit ak referans nan chapit yo n&#xE8;t&#xE8;man nouvo, ak kont&#xE8;k tout chapit yo te revize objektif representasyon s&#xE8;ks ak konotasyon.</para>
         </section>
       </section>
       <section id="eip-563">
-        <title>Pedagogical Foundations and Features</title>
+        <title>Fondasyon Pedagojik ak Karakteristik</title>
         <section id="eip-61">
-          <title>Learning Objectives</title>
-          <para id="eip-86">Each chapter is divided into multiple sections (or modules), each of which is organized around a set of learning objectives. The learning objectives are listed explicitly at the beginning of each section and are the focal point of every instructional element.</para>
+          <title>Objektif Aprantisaj</title>
+          <para id="eip-86">Chak chapit divize an plizy&#xE8; seksyon (oswa modil), chak &#xF2;ganize alantou yon seri objektif aprantisaj. Objektif aprantisaj yo ekri eksplisit w nan k&#xF2;mansman chak seksyon epi yo se pwen fiks chak eleman enstriksyon.
+                </para>
         </section>
         <section id="eip-719">
-          <title>Narrative Text</title>
+          <title>Tekst Naratif</title>
           <para id="eip-784">
-					Narrative text is used to introduce key concepts, terms, and definitions, to provide real-world context, and to provide transitions between topics and examples.  Throughout this book, we rely on a few basic conventions to highlight the most important ideas:
-					<list id="eip-id1166658637533"><item>Key terms are boldfaced, typically when first introduced and/or when formally defined.</item><item>Key concepts and definitions are called out in a blue box for easy reference.</item></list></para>
+                    Tekst naratif itilize pou prezante kons&#xE8;p kle, t&#xE8;m, ak definisyon, bay kont&#xE8;ks mond rey&#xE8;l la, epi bay tranzisyon ant sij&#xE8; ak egzanp.  Nan tout liv sa a, nou konte sou k&#xE8;k konvansyon debaz pou mete aksan sou ide ki pi enp&#xF2;tan yo:
+                    <list id="eip-id1166658637533"><item>T&#xE8;m kle yo grase, tipikman l&#xE8; yo prezante premye fwa ak/oswa l&#xE8; yo defini f&#xF2;m&#xE8;lman.</item><item>Kons&#xE8;p kle ak definisyon yo rele dey&#xF2; nan yon bwat ble pou referans fasil.</item></list></para>
         </section>
         <section id="eip-802">
-          <title>Examples</title>
-          <para id="eip-321">Each learning objective is supported by one or more worked examples that demonstrate the problem-solving approaches that students must master. Typically, we include multiple Examples for each learning objective in order to model different approaches to the same type of problem, or to introduce similar problems of increasing complexity. All told, there are more than 650 Examples, or an average of about 55 per chapter. </para>
-          <para id="eip-id1166796259369">All Examples follow a simple two- or three-part format. First, we pose a problem or question. Next, we demonstrate the Solution, spelling out the steps along the way. Finally (for select Examples), we conclude with an Analysis reflecting on the broader implications of the Solution just shown.
-					</para>
+          <title>Egzanp</title>
+          <para id="eip-321">Chak objektif aprantisaj sip&#xF2;te pa youn oubyen plis egzanp ki montre apw&#xF2;ch pou rezoud pwobl&#xE8;m el&#xE8;v yo dwe metrize. Tipikman, nou enkli plizy&#xE8; Egzanp pou chak objektif aprantisaj pou modle diferan apw&#xF2;ch nan menm kalite pwobl&#xE8;m, oswa pou prezante pwobl&#xE8;m ki gen yon konpleksite ogmante. An tout, genyen plis pase 650 Egzanp, oswa yon mwayen sou 55 pa chapit.</para>
+          <para id="eip-id1166796259369">Tout Egzanp yo swiv yon f&#xF2;ma senp nan de oswa twa pati. Premye, nou poze yon pwobl&#xE8;m oswa yon kesyon. Apre sa, nou demontre Solisyon an, eksplike etap yo pandan y ap f&#xE8;t. Finalman (pou k&#xE8;k Egzanp), nou fini ak yon Analiz ki reflechi sou enplikasyon jeneral Solisyon an ansanm ak sa ki montre.</para>
         </section>
         <section id="eip-236">
-          <title>Figures</title>
-          <para id="eip-829"><emphasis effect="italics">Precalculus 2e</emphasis> contains more than 2000 figures and illustrations, the vast majority of which are graphs and diagrams. Art throughout the text adheres to a clear, understated style, drawing the eye to the most important information in each figure while minimizing visual distractions. Color contrast is employed with discretion to distinguish between the different functions or features of a graph.
-					</para>
+          <title>Figur</title>
+          <para id="eip-829"><emphasis effect="italics">Precalculus 2e</emphasis> gen plis pase 2000 figur ak ilistrasyon, pif&#xF2; nan yo se graf ak dyagram. Atizay nan tout t&#xE8;ks la suiv yon stil ki kl&#xE8;, senp, ki rale atansyon sou enf&#xF2;masyon ki pi enp&#xF2;tan nan chak figi pandan l ap minimize distraksyon vizy&#xE8;l. Diferans koul&#xE8; itilize av&#xE8;k diskresyon pou distenge ant fonksyon oswa karakteristik diferan nan yon graf.</para>
           <media id="preface01" alt="Example figure">
             <image mime-type="image/jpeg" src="../../media/CNX_Precalc_Figure_Preface_01.jpg"/>
           </media>
         </section>
         <section id="eip-22">
-          <title>Supporting Features</title>
+          <title>Karakteristik Sip&#xF2;</title>
           <para id="eip-503">
-						Several elements, each marked by a distinctive icon, serve to support Examples.
-					</para>
+                        Plizy&#xE8; eleman, chak make ak yon icon distenk, s&#xE8;vi pou sip&#xF2;te Egzanp yo.
+                    </para>
           <list id="eip-id1171887752668">
             <item>
-						A <emphasis effect="bold"> How To</emphasis> is a list of steps necessary to solve a certain type of problem. A How To typically precedes an Example that proceeds to demonstrate the steps in action.   </item>
+                        Yon <emphasis effect="bold">K&#xF2;man Pou</emphasis> se yon lis etap ki neses&#xE8; pou rezoud yon s&#xE8;ten kalite pwobl&#xE8;m. Yon K&#xF2;man Pou tipikman vini anvan yon Egzanp ki montre etap yo an aksyon. </item>
             <item>
-							A <emphasis effect="bold">Try It</emphasis> exercise immediately follows an Example or a set of related Examples, providing the student with an immediate opportunity to solve a similar problem.  In the PDF and the Web View version of the text, answers to the Try It exercises are located in the Answer Key.</item>
+                            Yon egz&#xE8;sis <emphasis effect="bold">Eseye Li</emphasis> imedyatman swiv yon Egzanp oswa yon seri Egzanp ki gen rap&#xF2;, bay el&#xE8;v yo yon op&#xF2;tinite imedyat pou rezoud yon pwobl&#xE8;m menm jan. Nan PDF ak Web View v&#xE8;syon t&#xE8;ks la, repons pou egz&#xE8;sis Eseye Li yo jwenn nan Kle Repons yo.</item>
             <item>
-							A <emphasis effect="bold">Q&amp;A</emphasis> may appear at any point in the narrative, but most often follows an Example. This feature pre-empts misconceptions by posing a commonly asked yes/no question, followed by a detailed answer and explanation.  </item>
+                            Yon <emphasis effect="bold">K&amp;R</emphasis> ka par&#xE8;t nan nenp&#xF2;t pwen nan naratif la, men pi souvan swiv yon Egzanp. Karakteristik sa preempt misyonprepsyon pa poze yon kesyon wi/non souvan poze, ki swiv ak yon repons detaye ak eksplikasyon.</item>
             <item>
-							The <emphasis effect="bold">Media</emphasis> icon appears at the conclusion of each section, just prior to the Section Exercises. This icon marks a list of links to online video tutorials that reinforce the concepts and skills introduced in the section. </item>
+                            Ikon <emphasis effect="bold">Media</emphasis> par&#xE8;t nan konklizyon chak seksyon, just anvan Egz&#xE8;sis Seksyon yo. Ikon sa a make yon lis lyen ki mennen nan leson videyo sou ent&#xE8;n&#xE8;t ki ranf&#xF2;se kons&#xE8;p ak konpetans ki te prezante nan seksyon an.</item>
           </list>
-          <para id="eip-165">While we have selected tutorials that closely align to our learning objectives, we did not produce these tutorials, nor were they specifically produced or tailored to accompany <emphasis effect="italics">Precalculus 2e</emphasis>. </para>
+          <para id="eip-165">Pandan ke nou te chwazi leson ki aliyen byen av&#xE8;k objektif aprantisaj nou yo, nou pa te pwodui leson sa yo, ni yo pa te pwodui espesifikman oswa tay&#xE8; pou akonpaye <emphasis effect="italics">Precalculus 2e</emphasis>. </para>
         </section>
         <section id="eip-166">
-          <title>Section Exercises</title>
-          <para id="eip-526">Each section of every chapter concludes with a well-rounded set of exercises that can be assigned as homework or used selectively for guided practice. With over 5900 exercises across the 12 chapters, instructors should have plenty from which to choose.</para>
-          <para id="eip-96">Section Exercises are organized by question type, and generally appear in the following order:
-								<list id="eip-id8611023"><item><emphasis>Verbal</emphasis> questions assess conceptual understanding of key terms and concepts.</item><item><emphasis>Algebraic</emphasis> problems require students to apply algebraic manipulations demonstrated in the section.</item><item><emphasis>Graphical</emphasis> problems assess students&#x2019; ability to interpret or produce a graph.</item><item><emphasis>Numeric</emphasis> problems require the student to perform calculations or computations.</item><item><emphasis>Technology</emphasis> problems encourage exploration through use of a graphing utility, either to visualize or verify algebraic results or to solve problems via an alternative to the methods demonstrated in the section.</item><item><emphasis>Extensions</emphasis> pose problems more challenging than the Examples demonstrated in the section. They require students to synthesize multiple learning objectives or apply critical thinking to solve complex problems.</item><item><emphasis>Real-World Applications</emphasis> present realistic problem scenarios from fields such as physics, geology, biology, finance, and the social sciences.</item></list></para>
+          <title>Egz&#xE8;sis Seksyon</title>
+          <para id="eip-526">Chak seksyon nan chak chapit fini ak yon seri egz&#xE8;sis byen balanse ki ka bay k&#xF2;m devwa oswa itilize selektivman pou pratik gide. Av&#xE8;k plis pase 5900 egz&#xE8;sis atrav&#xE8; 12 chapit, pwofes&#xE8; yo ta dwe gen anpil chwa.</para>
+          <para id="eip-96">Egz&#xE8;sis Seksyon yo &#xF2;ganize pa kalite kesyon, epi yo anjeneral par&#xE8;t nan l&#xF2;d sa a:
+                                <list id="eip-id8611023"><item><emphasis>V&#xE8;bal</emphasis> kesyon evalye konpreyansyon kons&#xE8;ptuel nan t&#xE8;m ak kons&#xE8;p kle.</item><item><emphasis>Aljebrik</emphasis> pwobl&#xE8;m mande el&#xE8;v yo aplike manipilasyon aljebrik yo montre nan seksyon an.</item><item><emphasis>Grafik</emphasis> pwobl&#xE8;m evalye kapasite el&#xE8;v yo pou ent&#xE8;prete oswa pwodwi yon graf.</item><item><emphasis>Num&#xE9;rik</emphasis> pwobl&#xE8;m mande el&#xE8;v la f&#xE8; kalkil oswa kontablite.</item><item><emphasis>Teknoloji</emphasis> pwobl&#xE8;m ankouraje eksplorasyon atrav&#xE8; itilizasyon yon itilite grafik, swa pou vizyalize oswa verifye rezilta aljebrik oswa pou rezoud pwobl&#xE8;m nan yon alt&#xE8;natif pou met&#xF2;d yo demontre nan seksyon an.</item><item><emphasis>Ekstansyon</emphasis> poze pwobl&#xE8;m ki pi difisil pase Egzanp yo demontre nan seksyon an. Yo mande el&#xE8;v yo sintetize plizy&#xE8; objektif aprantisaj oswa aplike panse kritik pou rezoud pwobl&#xE8;m konpl&#xE8;ks.</item><item><emphasis>Aplikasyon Rey&#xE8;l</emphasis> prezante senaryo pwobl&#xE8;m reyalis soti nan dom&#xE8;n tankou fizik, jeyoloji, biyoloji, finans, ak syans sosyal yo.</item></list></para>
         </section>
         <section id="eip-82">
-          <title>Chapter Review Features</title>
-          <para id="eip-33">Each chapter concludes with a review of the most important takeaways, as well as additional practice problems that students can use to prepare for exams.
-
-										<list id="eip-id1170356513666"><item><emphasis>Key Terms</emphasis> provides a formal definition for each bold-faced term in the chapter. </item><item><emphasis>Key Equations</emphasis> presents a compilation of formulas, theorems, and standard-form equations. </item><item><emphasis>Key Concepts</emphasis> summarizes the most important ideas introduced in each section, linking back to the relevant Example(s) in case students need to review.</item><item><emphasis>Chapter Review Exercises</emphasis> include 40-80 practice problems that recall the most important concepts from each section.</item><item><emphasis>Practice Test</emphasis> includes 25-50 problems assessing the most important learning objectives from the chapter. Note that the practice test is not organized by section, and may be more heavily weighted toward cumulative objectives as opposed to the foundational objectives covered in the opening sections. </item></list></para>
+          <title>Karakteristik Revizyon Chapit</title>
+          <para id="eip-33">Chak chapit fini ak yon revizyon nan sa ki pi enp&#xF2;tan yo, osi byen ke pwobl&#xE8;m pratik adisyon&#xE8;l el&#xE8;v yo ka itilize pou prepare pou egzamen yo.
+                                        <list id="eip-id1170356513666"><item><emphasis>Kesyon Kle</emphasis> bay yon definisyon f&#xF2;m&#xE8;l pou chak t&#xE8;m ki an fonse nan chapit la.</item><item><emphasis>Ekasyon Kle</emphasis> prezante yon konpilasyon f&#xF2;mil, teyor&#xE8;m, ak ekasyon f&#xF2;m estanda.</item><item><emphasis>Kons&#xE8;p Kle</emphasis> rezime lide ki pi enp&#xF2;tan yo te prezante nan chak seksyon, lye tounen nan Egzanp ki enp&#xF2;tan yo nan ka el&#xE8;v yo bezwen revize.</item><item><emphasis>Egz&#xE8;sis Revizyon Chapit</emphasis> gen ladan 40-80 pwobl&#xE8;m pratik ki raple kons&#xE8;p ki pi enp&#xF2;tan yo soti nan chak seksyon.</item><item><emphasis>Egzamen Pratik</emphasis> gen ladan 25-50 pwobl&#xE8;m ki evalye objektif aprantisaj ki pi enp&#xF2;tan nan chapit la. Note ke egzamen pratik la pa &#xF2;ganize pa seksyon, epi li ka pi plis peze sou objektif kiltive k&#xF2;m opoze a objektif fondasyon ki kouvri nan seksyon ouv&#xE8;ti yo.</item></list></para>
         </section>
       </section>
       <section id="sect-00004">
-        <title>Answers to Questions in the Book</title>
-        <para id="para-00008">All answers to Try It questions are provided in the Answer Key. Answers to Examples are provided directly below the question. Students can find odd-numbered answers to Review Exercises, Practice Test, and Section Exercises in the Answer Key. Answers to all odd and even-numbered questions are provided only to instructors in the Instructor Answer Guide via the Instructor Resources page.</para>
+        <title>Repons Pou Kesyon Nan Liv la</title>
+        <para id="para-00008">Tout repons pou kesyon Eseye Li yo bay nan Kle Repons yo. Repons pou Egzanp yo bay dir&#xE8;kteman anba kesyon an. El&#xE8;v yo ka jwenn repons ki gen nimewo endepandan pou Revizyon Egz&#xE8;sis, Egzamen Pratik, ak Egz&#xE8;sis Seksyon nan Kle Repons yo. Repons pou tout kesyon ak nimewo pare ak pa s&#xE8;lman pou pwofes&#xE8; nan Gid Repons Pwofes&#xE8; a atrav&#xE8; paj Resous Pwofes&#xE8; a.</para>
       </section>
     </section>
     <section id="eip-299">
-      <title>Additional Resources</title>
+      <title>Resous Adisyon&#xE8;l</title>
       <section id="eip-827">
-        <title>Student and Instructor Resources</title>
-        <para id="eip-197">We&#x2019;ve compiled additional resources for both students and instructors, including Getting Started Guides, instructor solution manual, and PowerPoint slides. Instructor resources require a verified instructor account, which can be requested on your openstax.org log-in. Take advantage of these resources to supplement your OpenStax book.</para>
+        <title>Resous Pou El&#xE8;v ak Pwofes&#xE8;</title>
+        <para id="eip-197">Nou te konpile resous adisyon&#xE8;l pou tou el&#xE8;v ak pwofes&#xE8;, ki gen ladan Gid K&#xF2;manse, many&#xE8;l solisyon instrikt&#xE8;, ak glisad PowerPoint. Resous pou pwofes&#xE8; mande yon kont instrikt&#xE8; verifye, ki ka mande sou log-in openstax.org ou a. Pran avantaj de resous sa yo pou ajoute nan liv OpenStax ou a.</para>
       </section>
       <section id="eip-924">
-        <title>Community Hubs</title>
-        <para id="para-00006">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons&#x2014;a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty. To reach the Community Hubs, visit www.oercommons.org/hubs/openstax.</para>
+        <title>Hubs Kominote</title>
+        <para id="para-00006">OpenStax patn&#xE8; ak Institute for the Study of Knowledge Management in Education (ISKME) pou ofri Hubs Kominote sou OER Commons&#x2014;yon platf&#xF2;m pou pwofes&#xE8; pou pataje resous ki kreye pa kominote sip&#xF2;te liv OpenStax, gratis. Atrav&#xE8; Hubs Kominote nou yo, pwofes&#xE8; yo ka telechaje pw&#xF2;p matery&#xE8;l yo oswa telechaje resous pou itilize nan kours yo, ki gen ladan matery&#xE8;l adisyon&#xE8;l, matery&#xE8;l ans&#xE8;yman, miltimedya, ak kontni kou ki enp&#xF2;tan. Nou ankouraje pwofes&#xE8; yo antre nan ubs ki pi enp&#xF2;tan pou ans&#xE8;yman ak rech&#xE8;ch ou k&#xF2;m yon op&#xF2;tinite pou envanti kours ou ak angaje ak l&#xF2;t fakilte. Pou rive jwenn Hubs Kominote yo, vizite www.oercommons.org/hubs/openstax.</para>
       </section>
       <section id="sect-00003">
-        <title>Technology partners</title>
-        <para id="para-00007">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on openstax.org.</para>
+        <title>Patn&#xE8; Teknoloji</title>
+        <para id="para-00007">K&#xF2;m alye nan f&#xE8; matery&#xE8;l aprantisaj ki gen bon kalite aksesib, patn&#xE8; teknoloji nou yo ofri zouti opsyon&#xE8;l ki pa ch&#xE8; ki entegre ak liv OpenStax yo. Pou jwenn aks&#xE8; nan opsyon teknoloji pou t&#xE8;ks ou a, vizite paj liv ou sou openstax.org.</para>
       </section>
     </section>
     <section id="fs-id1166812582991">
-      <title>About the Authors</title>
+      <title>Apropo Ot&#xE8; yo</title>
       <section id="eip-679" class="sr-contrib-auth">
-        <title>Senior Contributing Author</title>
+        <title>Ot&#xE8; Kontribiye Senior</title>
         <para id="eip-704"><emphasis>Jay Abramson, Arizona State University</emphasis><newline/>
-			Jay Abramson has been teaching Precalculus for over 35 years, the last 20 at Arizona State University, where he is a principal lecturer in the School of Mathematics and Statistics. His accomplishments at ASU include co-developing the university&#x2019;s first hybrid and online math courses as well as an extensive library of video lectures and tutorials. In addition, he has served as a contributing author for two of Pearson Education&#x2019;s math programs, NovaNet Precalculus and Trigonometry. Prior to coming to ASU, Jay taught at Texas State Technical College and Amarillo College. He received Teacher of the Year awards at both institutions.</para>
+                Jay Abramson ap anseye Prekalikil&#xF2;t depi plis pase 35 ane, nan 20 d&#xE8;nye ane yo li te ap travay nan Arizona State University, kote li se yon prensipal lekt&#xE8; nan Lek&#xF2;l Matematik ak Estatistik. L&#xE8; li te nan ASU, li te ko-devlope premye kou mathibrid ak sou ent&#xE8;n&#xE8;t nan iniv&#xE8;site a, epi li te kreye yon bibliyot&#xE8;k videyo lekti ak tutoriel ki ekstensif. Anplis de sa, li te s&#xE8;vi k&#xF2;m yon ot&#xE8; kontribiyan pou de pwogram matematik Pearson Education, NovaNet Precalculus ak Trigonometry. Anvan li vini nan ASU, Jay te anseye nan Texas State Technical College ak Amarillo College. Li te resevwa pri Pwofes&#xE8; Ane a nan toude enstitisyon sa yo.
+            </para>
       </section>
       <section id="eip-528" class="contrib-auth">
-        <title>Contributing Authors </title>
+        <title>Ot&#xE8; Kontribiyan</title>
         <para id="eip-777">
-
-			Valeree Falduto, Palm Beach State College<newline/>
-			Rachael Gross, Towson University<newline/>
-			David Lippman, Pierce College<newline/>
-			Melonie Rasmussen, Pierce College<newline/>
-			Rick Norwood, East Tennessee State University<newline/>
-			Nicholas Belloit, Florida State College Jacksonville<newline/>
-			Jean-Marie Magnier, Springfield Technical Community College<newline/>
-			Harold Whipple<newline/>
-			Christina Fernandez</para>
+                Valeree Falduto, Palm Beach State College<newline/>
+                Rachael Gross, Towson University<newline/>
+                David Lippman, Pierce College<newline/>
+                Melonie Rasmussen, Pierce College<newline/>
+                Rick Norwood, East Tennessee State University<newline/>
+                Nicholas Belloit, Florida State College Jacksonville<newline/>
+                Jean-Marie Magnier, Springfield Technical Community College<newline/>
+                Harold Whipple<newline/>
+                Christina Fernandez
+            </para>
       </section>
       <section id="eip-956">
-        <title>Faculty Reviewers and Consultants</title>
+        <title>FDaktil Revize ak Konsiltan</title>
         <para id="eip-958">
-				Nina Alketa, Cecil College<newline/>
-				Kiran Bhutani, Catholic University of America<newline/>
-				Brandie Biddy, Cecil College<newline/>
-				Lisa Blank, Lyme Central School<newline/>
-				Bryan Blount, Kentucky Wesleyan College<newline/>
-				Jessica Bolz, The Bryn Mawr School<newline/>
-				Sheri Boyd, Rollins College<newline/>
-				Sarah Brewer, Alabama School of Math and Science<newline/>
-				Charles Buckley, St. Gregory's University<newline/>
-				Michael Cohen, Hofstra University<newline/>
-				Kenneth Crane, Texarkana College<newline/>
-				Rachel Cywinski, Alamo Colleges<newline/>
-				Nathan Czuba<newline/>
-				Srabasti Dutta, Ashford University<newline/>
-				Kristyanna Erickson, Notre Dame of Maryland University<newline/>
-				Nicole Fernandez, Georgetown University / Kent State University<newline/>
-				David French, Tidewater Community College<newline/>
-				Douglas Furman, SUNY Ulster<newline/>
-				Lance Hemlow, Raritan Valley Community College<newline/>
-				Erinn Izzo, Nicaragua Christian Academy<newline/>
-				John Jaffe<newline/>
-				Jerry Jared, Blue Ridge School<newline/>
-				Stan Kopec, Mount Wachusett Community College<newline/>
-				Kathy Kovacs<newline/>
-				Cynthia Landrigan, Erie Community College<newline/>
-				Sara Lenhart, Christopher Newport University<newline/>
-				Wendy Lightheart, Lane Community College<newline/>
-				Joanne Manville, Bunker Hill Community College<newline/>
-				Karla McCavit, Albion College<newline/>
-				Cynthia McGinnis, Northwest Florida State College<newline/>
-				Lana Neal, University of Texas at Austin<newline/>
-				Rhonda Porter, Albany State University<newline/>
-				Steven Purtee, Valencia College<newline/>
-				William Radulovich, Florida State College Jacksonville<newline/>
-				Alice Ramos, Bethel College<newline/>
-				Nick Reynolds, Montgomery Community College<newline/>
-				Amanda Ross, A. A. Ross Consulting and Research, LLC<newline/>
-				Erica Rutter, Arizona State University<newline/>
-				Sutandra Sarkar, Georgia State University<newline/>
-				Willy Schild, Wentworth Institute of Technology<newline/>
-				Todd Stephen, Cleveland State University<newline/>
-				Scott Sykes, University of West Georgia<newline/>
-				Linda Tansil, Southeast Missouri State University<newline/>
-				John Thomas, College of Lake County<newline/>
-				Diane Valade, Piedmont Virginia Community College<newline/>
-				Allen Wolmer, Atlanta Jewish Academy<newline/>
-			</para>
+                Nina Alketa, Cecil College<newline/>
+                Kiran Bhutani, Catholic University of America<newline/>
+                Brandie Biddy, Cecil College<newline/>
+                Lisa Blank, Lyme Central School<newline/>
+                Bryan Blount, Kentucky Wesleyan College<newline/>
+                Jessica Bolz, The Bryn Mawr School<newline/>
+                Sheri Boyd, Rollins College<newline/>
+                Sarah Brewer, Alabama School of Math and Science<newline/>
+                Charles Buckley, St. Gregory's University<newline/>
+                Michael Cohen, Hofstra University<newline/>
+                Kenneth Crane, Texarkana College<newline/>
+                Rachel Cywinski, Alamo Colleges<newline/>
+                Nathan Czuba<newline/>
+                Srabasti Dutta, Ashford University<newline/>
+                Kristyanna Erickson, Notre Dame of Maryland University<newline/>
+                Nicole Fernandez, Georgetown University / Kent State University<newline/>
+                David French, Tidewater Community College<newline/>
+                Douglas Furman, SUNY Ulster<newline/>
+                Lance Hemlow, Raritan Valley Community College<newline/>
+                Erinn Izzo, Nicaragua Christian Academy<newline/>
+                John Jaffe<newline/>
+                Jerry Jared, Blue Ridge School<newline/>
+                Stan Kopec, Mount Wachusett Community College<newline/>
+                Kathy Kovacs<newline/>
+                Cynthia Landrigan, Erie Community College<newline/>
+                Sara Lenhart, Christopher Newport University<newline/>
+                Wendy Lightheart, Lane Community College<newline/>
+                Joanne Manville, Bunker Hill Community College<newline/>
+                Karla McCavit, Albion College<newline/>
+                Cynthia McGinnis, Northwest Florida State College<newline/>
+                Lana Neal, University of Texas at Austin<newline/>
+                Rhonda Porter, Albany State University<newline/>
+                Steven Purtee, Valencia College<newline/>
+                William Radulovich, Florida State College Jacksonville<newline/>
+                Alice Ramos, Bethel College<newline/>
+                Nick Reynolds, Montgomery Community College<newline/>
+                Amanda Ross, A. A. Ross Consulting and Research, LLC<newline/>
+                Erica Rutter, Arizona State University<newline/>
+                Sutandra Sarkar, Georgia State University<newline/>
+                Willy Schild, Wentworth Institute of Technology<newline/>
+                Todd Stephen, Cleveland State University<newline/>
+                Scott Sykes, Iniv&#xE8;site West Georgia<newline/>
+                Linda Tansil, Iniv&#xE8;site Eta Sid&#xE8;s Missouri<newline/>
+                John Thomas, Iniv&#xE8;site Lake County<newline/>
+                Diane Valade, Kominote Iniv&#xE8;site Piedmont Virginia<newline/>
+                Allen Wolmer, Akademi Jwif Atlanta<newline/>
+            </para>
       </section>
     </section>
   </content>
